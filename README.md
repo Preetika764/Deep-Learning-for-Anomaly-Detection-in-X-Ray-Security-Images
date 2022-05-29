@@ -7,5 +7,5 @@ abnormal data or anomalies. We are trying to recreate the results of the paper -
 
 Dataset used - [https://github.com/MeioJane/SIXray]([url](https://github.com/MeioJane/SIXray))
 
-We have attempted to recreate the results for the paper. Preprocessing is required to split the dataset using the annotations given for performing multilabel classification. We have used equal number of positive and negative images for Resnext50 to tackle the class imbalance problem. 
+Preprocessing is required to split the dataset using the annotations given for performing multilabel classification. We have used equal number of positive and negative images for Resnext50 to tackle the class imbalance problem. 
 
