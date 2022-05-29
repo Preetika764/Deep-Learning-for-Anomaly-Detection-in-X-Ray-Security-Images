@@ -3,7 +3,7 @@ This project was done as a part of the PS1 program at CEERI Pilani
 
 
 The aim of this project is to recognize threat objects in x-ray security images.The dataset is highly biased towards one class (normal) due to insufficient images with 
-abnormal data or anomalies. We are trying to recreate the results of the paper - ‘A New GAN-Based Anomaly Detection (GBAD) Approach for MultiThreat Object Classification on Large-Scale X-Ray Security Images’.
+abnormal data or anomalies. We are trying to recreate the results of the paper - ‘A New GAN-Based Anomaly Detection (GBAD) Approach for Multi-Threat Object Classification on Large-Scale X-Ray Security Images’.
 
 Dataset used - [https://github.com/MeioJane/SIXray]([url](https://github.com/MeioJane/SIXray))
 
